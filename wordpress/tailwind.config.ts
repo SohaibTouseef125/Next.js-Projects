@@ -12,7 +12,7 @@ export default {
         button: "#F98585",
         myColor: "#21243D",
         recentBackground: "#F4E2E2",
-        footerBAcground: "#FAF5F5",
+        footerBackground: "#FAF5F5",
         background: "#CFA6A61C",
         heroElipse: "#AA9F9F4F",
       },
