@@ -1,5 +1,5 @@
 "use client";
-import { Component, ReactNode } from "react";
+import { Component} from "react";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Image from "next/image";
@@ -14,8 +14,8 @@ import Image7 from "./../../../public/assest/slideShow7.jpg";
 import Image8 from "./../../../public/assest/slideShow8.jpg";
 
 export default class IamgesCaurosel extends Component {
-    render(): any{
-        let data = [
+    render(): JSX.Element{
+        const data = [
             {
                 img: Image1,
                 title: "students learning web basics",

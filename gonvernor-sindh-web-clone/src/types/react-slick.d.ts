@@ -1,4 +1,4 @@
 declare module "react-slick" {
-    const Silder: any;
+    const Silder;
     export default Silder
 }
