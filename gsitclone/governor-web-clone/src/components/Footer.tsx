@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import Image from 'next/image'
+
 function Footer() {
   return (
     <div className='flex items-center justify-around bg-gray-100 h-[500px]'>

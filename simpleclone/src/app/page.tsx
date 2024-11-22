@@ -10,7 +10,7 @@ export default function Home() {
       <div className="w-1/2 mx-12" >
         <div className="flex flex-col gap-6">
           <h1 className="text-5xl font-bold">Welcome To Our Website</h1>
-          <p className="text-[32px]"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+          <p className="text-[32px]"> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores, recusandae?</p>
           <button className="bg-black text-white w-[237px] h-[66px]" > Contact Us</button>
         </div>
       </div>

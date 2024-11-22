@@ -1,7 +1,7 @@
 
 import Footers from "@/components/Footers";
 import Headers from "@/components/Headers";
-import Image from "next/image";
+
 
 export default function Home() {
   return (
