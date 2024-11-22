@@ -14,9 +14,9 @@ function Header() {
 <p className="text-blue-100 text-xl font-bold">Tuition Free Education Program on Latest Technologies</p>
   <ul className="flex items-center justify-end gap-12  text-white">
     <li><Link href="/">Home</Link></li>
-    <li><Link href="#">Apply</Link></li>
-    <li><Link href="#">Jobs</Link></li>
-    <li><Link href="#">Result</Link></li>
+    <li><Link href="/apply">Apply</Link></li>
+    <li><Link href="/jobs">Jobs</Link></li>
+    <li><Link href="/result">Result</Link></li>
   <select className="bg-sky-800 border-none">
     <option><li><Link href="#">Courses</Link></li></option>
     <option><li><Link href="#">HTML</Link></li></option>
